@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OA7aW6FXN3tlV/h3nhzQ/hjvPvv0qUYquqNO5dRgEVXhpO1sLqqY5i8OWwIOTCmYKyCeCQNvtEzivqr01+5tjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nando\\OneDrive\\Documents\\CodeStack\\week14\\AllForOneApi\\AllForOneApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nando\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.15\\microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nando\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
