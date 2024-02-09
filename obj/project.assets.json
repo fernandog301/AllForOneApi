@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nando\\OneDrive\\Documents\\CodeStack\\week14\\AllForOneApi\\AllForOneApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nando\\CodeStack\\TestFolder\\AllForOneApi\\AllForOneApi.csproj",
       "projectName": "AllForOneApi",
-      "projectPath": "C:\\Users\\Nando\\OneDrive\\Documents\\CodeStack\\week14\\AllForOneApi\\AllForOneApi.csproj",
+      "projectPath": "C:\\Users\\Nando\\CodeStack\\TestFolder\\AllForOneApi\\AllForOneApi.csproj",
       "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nando\\OneDrive\\Documents\\CodeStack\\week14\\AllForOneApi\\obj\\",
+      "outputPath": "C:\\Users\\Nando\\CodeStack\\TestFolder\\AllForOneApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"

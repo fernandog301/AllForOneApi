@@ -17,7 +17,7 @@ namespace GutierrezFMINIChallenge5_7.Controllers;
         }
 
         [HttpGet]
-        [Route("ReverseIt")]
+        [Route("ReverseIt/{value}")]
         public string reverseIt(string value)
         {
             return _reverseItNumbersOnlyService.reverseIt(value);

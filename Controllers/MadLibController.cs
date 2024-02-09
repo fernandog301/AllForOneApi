@@ -18,7 +18,7 @@ namespace GutierrezFMINIChallenge5_7.Controllers
             _madLibService = madLibService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("MadLib/{charaOne}/{charaTwo}/{placeOne}/{adjectOne}/{nounOne}/{optionOne}/{colorOne}/{reactionOne}/{expressOne}/{WeatherOne}/{AnswerTwo}/{ReviewOne}")]
     public string MadLib(string charaOne, string charaTwo,string placeOne,string adjectOne,string nounOne,string optionOne,string colorOne,string reactionOne, string expressOne,string WeatherOne,string AnswerTwo,string ReviewOne)
     {

@@ -19,7 +19,7 @@ public class ReverseItNumbersOnlyService : IReverseItNumbersOnlyService
                 number1 += value[i - 1];
 
             }
-            return $"Converted '{value}' to {number1}.";
+            return $"Converted '{number}' to {number1}.";
         }
         else
         {
